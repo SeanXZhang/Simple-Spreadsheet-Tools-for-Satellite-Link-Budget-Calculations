@@ -1,4 +1,4 @@
-# Simple-Spreadsheet-Tools-for-Satellite-Link-Budget-Calculations
+# Simple-Spreadsheet-Calculators-for-Satellite-Link-Budget-Analyses
 
 1. Spreadsheet for calculating uplink/downlink satelllite link budgets with clear sky:
 Downlink-uplink LB example.xlsx
